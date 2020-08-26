@@ -10,4 +10,8 @@ function handleClick(e) {
 /* End Given Code, don't edit above here...*/
 
 /* Write your implementation of greet() */
+
+function greet(time) {
+  const h = time.split()
+}
 /* Write your implementation of displayMessage() */
